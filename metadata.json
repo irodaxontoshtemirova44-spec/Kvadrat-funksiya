@@ -1,0 +1,6 @@
+{
+  "name": "ParabolaMaster - Kvadrat Funksiya Interaktiv Portali",
+  "description": "9-sinf o'quvchilari uchun kvadrat funksiya, grafiklar, o'sish va kamayish oraliqlari, aniqlanish sohasi va juft/toqlikni o'rgatuvchi interaktiv ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
